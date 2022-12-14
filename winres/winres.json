@@ -1,0 +1,41 @@
+{
+  "RT_GROUP_ICON": {
+    "APP": {
+      "0000": [
+        "icon-256.png",
+        "icon-16.png"
+      ]
+    }
+  },
+  "RT_MANIFEST": {
+    "#1": {
+      "0409": "winssh_pageant_ui.exe.manifest"
+    }
+  },
+  "RT_VERSION": {
+    "#1": {
+      "0000": {
+        "fixed": {
+          "file_version": "0.0.0.1",
+          "product_version": "0.0.0.1"
+        },
+        "info": {
+          "0409": {
+            "Comments": "",
+            "CompanyName": "",
+            "FileDescription": "",
+            "FileVersion": "",
+            "InternalName": "",
+            "LegalCopyright": "",
+            "LegalTrademarks": "",
+            "OriginalFilename": "winssh_pageant_ui.exe",
+            "PrivateBuild": "",
+            "ProductName": "WinSSH Pageant UI",
+            "ProductVersion": "0.0.0.1 Beta",
+            "SpecialBuild": ""
+          }
+        }
+      }
+    }
+  }
+}
